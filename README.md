@@ -19,6 +19,7 @@ Required Components
   -Optional casing
 
 Project Description
+
   The program simulates Conway’s Game of Life, where each cell on a 16x16 grid can be either alive (1) or dead (0). The initial board configuration is generated      randomly using a pseudorandom number generator, ensuring a dynamic start to the simulation.
 
 Youtube video: 
@@ -73,4 +74,4 @@ Functions Overview
     -compare_matrices() → Checks if the board state has changed.
     -check_pattern() → Detects stable structures in the grid.
     -find_stable_patterns() → Searches for all stable structures and marks them.
-    -Additionally, earlier project versions are documented in the code comments, describing what was added at each development stage.
+
