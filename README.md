@@ -7,10 +7,15 @@ In this version of the program, an additional functionality has been introduced:
 Required Components
 
   -ESP8266 (NodeMCU)
+  
   -Breadboard
+  
   -Wires
+  
   -16x16 LED Matrix
+  
   -PC with Thonny
+  
   -Optional casing
 
 Project Description
