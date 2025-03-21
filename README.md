@@ -52,3 +52,15 @@ The core functionalities of the program include:
     The user can specify the number of initial live cells, controlling the density of the starting board.
     Random placement ensures variability in each run, even with the same input.
     This allows experimentation with different configurations for diverse simulation results.
+
+Functions Overview
+    -generate_matrix() → Generates a random initial board.
+    -turn_LED() → Changes LED colors based on cell age and stability.
+    -draw_board() → Displays the grid on the LED matrix.
+    -count_neighbors() → Counts the number of alive neighbors of a cell.
+    -update_board() → Updates the board following Game of Life rules.
+    -set_binary_matrix() → Converts the board into a binary matrix for comparison.
+    -compare_matrices() → Checks if the board state has changed.
+    -check_pattern() → Detects stable structures in the grid.
+    -find_stable_patterns() → Searches for all stable structures and marks them.
+    -Additionally, earlier project versions are documented in the code comments, describing what was added at each development stage.
