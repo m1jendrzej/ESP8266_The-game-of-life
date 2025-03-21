@@ -14,6 +14,9 @@ Required Components
 Project Description
   The program simulates Conway’s Game of Life, where each cell on a 16x16 grid can be either alive (1) or dead (0). The initial board configuration is generated      randomly using a pseudorandom number generator, ensuring a dynamic start to the simulation.
 
+Youtube video: 
+https://www.youtube.com/watch?v=jeAMaCK1sEU&ab_channel=MaciejJ%C4%99drzejewski
+
 The core functionalities of the program include:
 
 1. Generating the Initial Board
