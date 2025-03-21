@@ -1,4 +1,5 @@
-Project Overview
+Project Overview:
+
 The program is an implementation of the popular simulation game called "Game of Life", created by British mathematician John Conway. This game is a type of cellular automaton, where cells placed on a two-dimensional grid change their states (alive or dead) based on simple rules concerning their neighbors.
 
 In this version of the program, an additional functionality has been introduced: the detection of stable structures—patterns that remain unchanged over time. When such structures are identified, their color is changed to purple on the LED matrix.
