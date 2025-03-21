@@ -5,6 +5,7 @@ The program is an implementation of the popular simulation game called "Game of 
 In this version of the program, an additional functionality has been introduced: the detection of stable structures—patterns that remain unchanged over time. When such structures are identified, their color is changed to purple on the LED matrix.
 
 Required Components
+
   -ESP8266 (NodeMCU)
   -Breadboard
   -Wires
